@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#section1{
+    background-image:url(../img/download.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+color:gray;
+font-size:30px;
+font-family:cursive;
+top:100px;
+}
+p{
+    color:blue;
+    font-size: 20px;
+    top:50px;
+}
+button{
+    width:100px;
+ height:70px; 
+ background-color:rgb(185, 185, 199); 
+ color:rgb(41, 41, 41);
+ border-block-end-color: gray;
+ font-size: 15px;
+}
